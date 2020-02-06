@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\bin\Debug\netcoreapp3.1\SeleniumAutomation.exe
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\bin\Debug\netcoreapp3.1\SeleniumAutomation.deps.json
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\bin\Debug\netcoreapp3.1\SeleniumAutomation.runtimeconfig.json
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\bin\Debug\netcoreapp3.1\SeleniumAutomation.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\bin\Debug\netcoreapp3.1\SeleniumAutomation.dll
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\bin\Debug\netcoreapp3.1\SeleniumAutomation.pdb
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\obj\Debug\netcoreapp3.1\SeleniumAutomation.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\obj\Debug\netcoreapp3.1\SeleniumAutomation.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\obj\Debug\netcoreapp3.1\SeleniumAutomation.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\obj\Debug\netcoreapp3.1\SeleniumAutomation.csproj.CopyComplete
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\obj\Debug\netcoreapp3.1\SeleniumAutomation.dll
+C:\Users\Administrator\source\repos\SeleniumAutomation\SeleniumAutomation\obj\Debug\netcoreapp3.1\SeleniumAutomation.pdb
